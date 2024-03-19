@@ -1,7 +1,7 @@
 #define a function
 def first_last_same(numberList):
     print("Given list:", numberList)
-    
+   #numbers are good 
     first_num = numberList[0]
     last_num = numberList[-1]
     
