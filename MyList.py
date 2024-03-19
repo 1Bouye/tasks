@@ -1,3 +1,4 @@
+#define a function
 def first_last_same(numberList):
     print("Given list:", numberList)
     
