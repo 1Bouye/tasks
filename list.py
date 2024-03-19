@@ -8,7 +8,7 @@ def first_last_same(numberList):
         return True
     else:
         return False
-
+# call the function
 numbers_x = [10, 20, 30, 40, 10]
 print("result is", first_last_same(numbers_x))
 
